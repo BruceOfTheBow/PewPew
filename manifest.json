@@ -1,0 +1,8 @@
+{
+  "name": "PewPew",
+  "version_number": "1.0.0",
+  "author": "bruce",
+  "description": "Onomatopoeia for the soul.",
+  "website_url": "Mod website.",
+  "dependencies": [ "denikson-BepInExPack_Valheim-5.4.1900" ]
+}
